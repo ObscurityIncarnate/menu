@@ -1,7 +1,7 @@
 import qrcode
 from PIL import Image
 # Your website
-url = "https://obscurityincarnate.github.io/menu/"
+url = "https://obscurityincarnate.github.io/menu/HOFTAN_MENU_Edited_version.pdf"
 
 # Generate QR code
 qr = qrcode.QRCode(version=1, error_correction=qrcode.constants.ERROR_CORRECT_H, box_size=10, border=4)
